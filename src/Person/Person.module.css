@@ -1,0 +1,21 @@
+.card {
+    display:inline-block;
+    margin:10px;
+    border:1px solid #ccc;
+    cursor:pointer;
+    
+}
+
+.card .cardHeader {
+    background-color:#f9f9f9;
+    color:royalblue
+}
+
+.card .cardHeader, .card .cardBody {
+    padding:10px;
+}
+
+
+.card .cardHeader h3, .card .cardHeader p {
+    margin:0;
+}
